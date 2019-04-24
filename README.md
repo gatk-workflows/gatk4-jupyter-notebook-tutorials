@@ -1,7 +1,7 @@
 # gatk4-jupyter-notebook-tutorials
 
 ### Purpose :
-This repository contains Jupyter Notebooks containing GATK Best Practices Workflows
+This repository contains Jupyter Notebooks that walks users through GATK Best Practices Workflows.
 
 ### Notebooks :
 - Day2
@@ -19,7 +19,6 @@ This repository contains Jupyter Notebooks containing GATK Best Practices Workfl
 ### Important Note :
 - If you are executing these notebooks on Terra workspace, be sure to use the following startup script when creating a cluster: [gs://gatk-tutorials/scripts/install_gatk_4100_with_condaenv.sh](https://storage.googleapis.com/gatk-tutorials/scripts/install_gatk_4100_with_condaenv.sh)
 - Relevant reference and resources bundles can be accessed in [gs://gatk-tutorials/workshop_1903](https://console.cloud.google.com/storage/browser/gatk-tutorials/workshop_1903/?project=broad-dsde-outreach&organizationId=548622027621).
-- Runtime parameters are optimized for Broad's Google Cloud Platform implementation.
 - The following material is provided by the GATK Team. Please post any questions or concerns to one of our forum sites : [GATK](https://gatkforums.broadinstitute.org/gatk/categories/ask-the-team/) , [FireCloud](https://gatkforums.broadinstitute.org/firecloud/categories/ask-the-firecloud-team) or [Terra](https://broadinstitute.zendesk.com/hc/en-us/community/topics/360000500432-General-Discussion) , [WDL/Cromwell](https://gatkforums.broadinstitute.org/wdl/categories/ask-the-wdl-team).
 - Please visit the [User Guide](https://software.broadinstitute.org/gatk/documentation/) site for further documentation on our workflows and tools.
 
